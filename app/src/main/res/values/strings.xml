@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">bought</string>
+
+
+    <string-array name="grocery_stores">
+        <item>Loblaws</item>
+        <item>Metro</item>
+        <item>Real Canadian Superstore</item>
+        <item>Walmart</item>
+        <item>Safeway</item>
+        <item>Giant Tiger</item>
+        <item>Costco</item>
+    </string-array>
+
+</resources>
